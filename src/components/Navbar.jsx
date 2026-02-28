@@ -38,7 +38,7 @@ const Navbar = () => {
 
         <div className="nav-actions">
 
-          <a href="/data/resume/resume.pdf" download className="btn-resume">
+          <a href="/data/resume/Thilak_Resume.pdf" download="Thilak_Resume.pdf" className="btn-resume">
             <span className="icon">↓</span> Resume
           </a>
         </div>
